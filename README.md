@@ -35,4 +35,5 @@ User documentation can be found below for the two options deployed for the proje
  
  -  **Dheeraj Audam**
 
-**Organization:** Carleton University - Advanced Topics in Communications Systems (SYSC5804 - 5G Networks)
+
+
